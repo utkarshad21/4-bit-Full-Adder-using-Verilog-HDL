@@ -1,5 +1,11 @@
 4-bit Full Adder using Verilog HDL
 
+Schematic:
+
+![Screenshot 2024-07-12 000948](https://github.com/user-attachments/assets/1f61590f-f394-46a9-97f9-90d35adb498f)
+
+Results:
+
 ![Screenshot 2024-07-11 235446](https://github.com/utkarshad21/-4-bit-full-adder-using-Verilog-HDL-/assets/154047293/65970f96-a1c0-4672-9a4d-6279629515d0)
 
 
